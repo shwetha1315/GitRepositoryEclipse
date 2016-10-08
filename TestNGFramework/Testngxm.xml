@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Executing test cases in testng framework package" >
+	<test name ="Smoke testcases">
+	
+	<classes>
+		<class name = "testNGFiles.PracticeTestNG" ></class>
+	</classes>
+	
+	</test>
+</suite>

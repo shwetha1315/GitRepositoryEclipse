@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Google Parameterization"  > 
+	<test name ="Google testcse Parametrization" thread-count="3" >
+
+		<parameter name = "searchkey"  value = "usa"></parameter>
+		 
+				 
+	<classes>
+		<class name="testNGFiles.DataParaGoogle"></class>
+	</classes>
+	</test>
+
+</suite>

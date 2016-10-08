@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Datadriving ">
+
+<test name= "Datadriving testcases ">
+	
+	<parameter name = "username " value ="silverwood"> </parameter>
+ 
+	<classes>
+		<class  name ="testNGFiles.DataDriving"> </class>
+	
+	
+	</classes>
+
+
+</test>
+
+</suite>

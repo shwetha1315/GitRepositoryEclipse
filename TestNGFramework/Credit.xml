@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="creidt Application Approval">
+	<test name = "Credit Check">
+		
+		
+		<groups>
+			<run>
+				<include name = "priority1"></include>
+		
+			</run>
+		</groups>
+		
+		
+		<classes>
+			
+			<class name = "testNGFiles.CreidtApplication"></class>
+			<methods>
+			
+			<exclude name = "checkCreditBalance "></exclude>
+			</methods>
+			
+		
+		</classes>
+	
+	
+	</test>
+
+
+</suite>
